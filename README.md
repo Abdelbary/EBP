@@ -1,2 +1,14 @@
 # EBP
 ...
+/* oct 5 2016 */ 
+>>Edited by Mahmoud Abdelbary<<
+
+..BOOK SECTIONS..
+1_INTRODUCTION 
+2_IDE & I/O
+3_DATA TYPES & ARTHEMATICS 
+4_IF & SWITCH STATMENT 
+5_LOOPS 
+6_ARRAYS
+7_POINTERS & STRUCTS 
+
